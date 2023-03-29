@@ -7,6 +7,7 @@ using namespace std;
 
 
 //шгрыавшгрсымшгруысщшофыу
+// oeoeoeoeoe
 
 //Класс результатов теста
 class Testresult { 
